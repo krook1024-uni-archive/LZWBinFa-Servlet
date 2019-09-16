@@ -5,6 +5,6 @@ for calculating LZW binary trees of a given input.
 
 ## Screenshots
 
-![](docs/1.png)
+![](doc/1.png)
 
-![](docs/2.png)
+![](doc/2.png)
